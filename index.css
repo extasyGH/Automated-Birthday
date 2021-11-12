@@ -1,0 +1,27 @@
+
+body{
+    background: burlywood;
+    place-items: center;
+    height: 100vh;
+
+    display: grid;
+    margin: auto;
+}
+
+.card{
+    background: bisque;
+    margin: 20%;
+    place-content: center;
+    border: ivory;
+    border-width: 10px;
+    height: 400px;
+    width: 250px;
+    border-radius: 4px;
+}
+
+.card-1{
+    display: grid;
+    color: chocolate;
+    place-items: center;
+    
+}
